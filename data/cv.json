@@ -1,0 +1,83 @@
+{
+  "name": "Labib Lintang Habibie",
+  "age": "20 Tahun",
+  "birth_year": "2005",
+  "hobby": "Badminton, Web Developert, Web Game",
+  "title": "Web Developer / Web Game Developer",
+  "summary": "Saya adalah seorang pelajar dan developer pemula yang fokus pada pembuatan website modern, responsif, interaktif, dan menarik.",
+  "about": "Halo! Saya adalah pelajar jurusan Pengembangan Perangkat Lunak dan Gim (PPLG) yang memiliki minat besar di bidang pengembangan web, desain antarmuka, dan pembuatan game berbasis web. Saya senang membuat website portfolio, landing page, sistem informasi sederhana, serta project kreatif lainnya menggunakan HTML, CSS, JavaScript, PHP, MySQL, dan Laravel. Saya terus belajar dan mengembangkan kemampuan melalui project sekolah maupun project pribadi agar dapat menjadi web developer profesional di masa depan.",
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "PHP",
+    "MySQL",
+    "Laravel",
+    "Bootstrap",
+    "UI/UX Design",
+    "Laragon",
+    "Android Studio"
+  ],
+  "education": [
+    {
+      "school": "TK NIDA'UL JANNAH",
+      "major": "Pendidikan Dasar Anak",
+      "year": "2012 - 2014"
+    },
+    {
+      "school": "MI ALAM ROBBANI",
+      "major": "Sekolah Dasar / Madrasah Ibtidaiyah",
+      "year": "2014 - 2020"
+    },
+    {
+      "school": "SMP WALISONGO",
+      "major": "Sekolah Menengah Pertama",
+      "year": "2020 - 2024"
+    },
+    {
+      "school": "SMK PRESTASI PRIMA",
+      "major": "PPLG (Pengembangan Perangkat Lunak dan Gim)",
+      "year": "2024 - 2027"
+    }
+  ],
+  "experience": [
+    {
+      "position": "Freelance Web Developer",
+      "company": "Personal Project",
+      "year": "2024 - Sekarang",
+      "description": "Membuat website portfolio, landing page, dan project sekolah menggunakan HTML, CSS, JavaScript, PHP, dan Laravel."
+    },
+    {
+      "position": "Student Project Developer",
+      "company": "SMK Prestasi Prima",
+      "year": "2024 - Sekarang",
+      "description": "Mengerjakan berbagai project sekolah seperti sistem informasi sederhana, website CRUD, dan desain antarmuka website."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Laravel",
+      "description": "Laravel adalah framework PHP yang digunakan untuk membangun aplikasi web dengan struktur yang rapi dan efisien. Laravel menyediakan berbagai fitur seperti routing, middleware, dan ORM (Eloquent) untuk mempermudah proses pengembangan",
+      "image": "assets/images/laravel-logo.png",
+      "link": "https://laravel.com/"
+    },
+    {
+      "name": "Laragon",
+      "description": "Laragon adalah aplikasi local server yang digunakan untuk menjalankan dan mengembangkan aplikasi web secara lokal. Laragon mendukung berbagai teknologi seperti PHP, MySQL, dan framework seperti Laravel dengan konfigurasi yang mudah dan cepat.",
+      "image": "assets/images/laragon-gajah-logo.png",
+      "link": "https://laragon.org/"
+    },
+    {
+      "name": "PHP",
+      "description": "PHP (Hypertext Preprocessor) adalah bahasa pemrograman server-side yang digunakan untuk mengembangkan website dinamis. PHP mampu mengolah data, berinteraksi dengan database, serta menghasilkan konten yang ditampilkan pada browser",
+      "image": "assets/images/php-logo.png",
+      "link": "https://learn.wordpress.org/lesson/php/"
+    }
+  ],
+  "contact": {
+    "whatsapp": "6285819134959",
+    "instagram": "tangling2525",
+    "email": "lintangzhade2525@gmail.com",
+    "github": "https://github.com/lintangzhade2525-netizen"
+  }
+}
